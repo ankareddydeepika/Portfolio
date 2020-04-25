@@ -1,0 +1,33 @@
+
+  
+
+  #aboutme{
+      background-color: rgb(134, 109, 109);
+      padding: 20px 10px;
+      font-weight: bold;
+  }
+
+  .landing-image {
+    background-image: url('assets/Images/Background_image.png');
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    height: 110vh;
+    width: 100%;
+    padding: 1%;
+  }
+
+  #myProjects{
+    background-color: rgb(134, 109, 109, 0.8);
+    padding: 50px 40px;
+    font-weight: bold;
+  }
+  #title{
+    padding: 50px 40px;
+    color: rgb(17, 16, 15);
+  }
+  #pages{
+    background-color: rgb(134, 109, 109, 0.8);
+    padding: 50px 40px;
+    font-weight: bold;
+  }
