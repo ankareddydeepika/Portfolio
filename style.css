@@ -24,10 +24,22 @@
   }
   #title{
     padding: 50px 40px;
-    color: rgb(17, 16, 15);
+    color: rgb(27, 16, 1);
   }
   #pages{
     background-color: rgb(134, 109, 109, 0.8);
     padding: 50px 40px;
     font-weight: bold;
+  }
+
+  .card-link{
+   color: rgb(238, 152, 23);
+  }
+
+  .card-title{
+    color: rgb(27, 16, 1);
+  }
+
+  .card-body{
+    background-color: rgb(236, 223, 214);
   }
